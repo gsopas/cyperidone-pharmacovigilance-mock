@@ -40,8 +40,10 @@ These modifications preserve the essential pharmacophore for atypical antipsycho
 
 **Georgios Sopasis**
 BSc (Hons) Materials Science, University of Crete
-Doctoral Research in Neuropharmacology and Pharmaceutical Chemistry, University of Adelaide
-Six peer-reviewed publications (two as first author) in CNS pharmacology and pharmaceutical chemistry
+
+Doctoral Research in Chemistry and Pharmaceutical Chemistry, University of Adelaide
+
+Six peer-reviewed publications (two as first author) in chemistry and pharmaceutical chemistry
 
 ## Disclaimer
 
